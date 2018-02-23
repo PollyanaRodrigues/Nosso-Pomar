@@ -1,4 +1,4 @@
-# Nosso-Pomar
+# Nosso Pomar
 ## Descrição
 ## Inspiração
 ## Protótipos
